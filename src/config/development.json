@@ -1,0 +1,13 @@
+{
+"port" :"3000",
+"env": "development",
+"db" : {
+    "username":"aswin",
+    "password":"root",
+    "host":"127.0.0.1",
+    "database":"amazone",
+    "port":3306,
+    "logging":true
+    
+}
+}
